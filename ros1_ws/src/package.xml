@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>bounding_box_3d</name>
+  <version>0.0.1</version>
+  <description>A package for BoundingBox3D custom message</description>
+  <maintainer email="your-email@example.com">Your Name</maintainer>
+  <license>BSD</license>
+
+  <build_depend>message_generation</build_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <build_depend>std_msgs</build_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+    <build_type>catkin</build_type>
+  </export>
+</package>
+
